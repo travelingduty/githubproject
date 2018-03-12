@@ -138,4 +138,11 @@ public class ItemListActivity extends AppCompatActivity {
             }
         }
     }
+
+    /**
+     * Created by oxyfa on 3/11/2018.
+     */
+
+    public static class newclass {
+    }
 }
